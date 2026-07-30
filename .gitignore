@@ -1,0 +1,6 @@
+# Cache directories at any depth
+**/cahe/
+**/cache/
+**/.cache/
+**/pycache/
+**/__pycache__/
