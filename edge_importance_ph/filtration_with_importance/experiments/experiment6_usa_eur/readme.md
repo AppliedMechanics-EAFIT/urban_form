@@ -1,0 +1,1 @@
+Filtraciǿn con coarse deciles

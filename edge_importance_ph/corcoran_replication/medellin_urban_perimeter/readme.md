@@ -1,0 +1,1 @@
+This notebooks are also a replication of corcoran's works in Medellín, colombia, however, instead of USING OSMNX, it uses Medellín's urban perimeter, defined explicitly in the query.geojson file

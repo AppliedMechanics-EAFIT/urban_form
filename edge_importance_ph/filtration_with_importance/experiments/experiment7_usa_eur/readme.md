@@ -1,0 +1,1 @@
+filtro gaussiano para los datos

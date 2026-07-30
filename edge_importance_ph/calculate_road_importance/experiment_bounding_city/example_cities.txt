@@ -1,0 +1,263 @@
+Medellín, Colombia  
+center_lat = 6.2457
+center_lon = -75.5822
+
+
+Cali, Colombia
+Barranquilla, Colombia
+Quito, Ecuador
+Guayaquil, Ecuador
+La Paz, Bolivia
+Santa Cruz, Bolivia
+Montevideo, Uruguay
+Asunción, Paraguay
+Curitiba, Brazil
+Fortaleza, Brazil
+Salvador, Brazil
+Recife, Brazil
+Porto Alegre, Brazil
+Belo Horizonte, Brazil
+Brasilia, Brazil
+Campinas, Brazil
+Manaus, Brazil
+Belém, Brazil
+Goiania, Brazil
+Rosario, Argentina
+Cordoba, Argentina
+Mendoza, Argentina
+Mar del Plata, Argentina
+Lima (metro subset), Peru
+Arequipa, Peru
+Trujillo, Peru
+Santiago (outer metro), Chile
+Valparaiso, Chile
+Concepcion, Chile
+Caracas, Venezuela
+Valencia, Venezuela
+Maracaibo, Venezuela
+San Cristobal, Venezuela
+Tijuana, Mexico
+Puebla, Mexico
+Leon, Mexico
+Juarez, Mexico
+Monterrey (urban core), Mexico
+Guadalajara (urban core), Mexico
+Toluca, Mexico
+Queretaro, Mexico
+San Luis Potosi, Mexico
+Merida, Mexico
+Cancun, Mexico
+Havana, Cuba
+Santo Domingo, Dominican Republic
+San Juan, Puerto Rico
+Guatemala City, Guatemala
+San Salvador, El Salvador
+Tegucigalpa, Honduras
+Managua, Nicaragua
+San Jose, Costa Rica
+Panama City, Panama
+Miami, USA
+Orlando, USA
+Tampa, USA
+Charlotte, USA
+Nashville, USA
+Indianapolis, USA
+Columbus, USA
+Cincinnati, USA
+Kansas City, USA
+St. Louis, USA
+San Antonio, USA
+Austin, USA
+Sacramento, USA
+Portland, USA
+Las Vegas, USA
+Pittsburgh, USA
+Cleveland, USA
+Baltimore, USA
+Milwaukee, USA
+Minneapolis, USA
+Edmonton, Canada
+Calgary, Canada
+Ottawa, Canada
+Quebec City, Canada
+Vancouver, Canada
+Montreal (inner), Canada
+Toronto (inner), Canada
+London, UK
+Birmingham, UK
+Manchester, UK
+Leeds, UK
+Glasgow, UK
+Liverpool, UK
+Sheffield, UK
+Bristol, UK
+Dublin, Ireland
+Paris (outer metro), France
+Lyon, France
+Marseille, France
+Toulouse, France
+Nice, France
+Lille, France
+Nantes, France
+Strasbourg, France
+Berlin (inner), Germany
+Hamburg, Germany
+Munich, Germany
+Cologne, Germany
+Frankfurt, Germany
+Stuttgart, Germany
+Düsseldorf, Germany
+Dortmund, Germany
+Essen, Germany
+Madrid (inner), Spain
+Barcelona (inner), Spain
+Valencia, Spain
+Seville, Spain
+Zaragoza, Spain
+Malaga, Spain
+Bilbao, Spain
+Rome (inner), Italy
+Milan (inner), Italy
+Naples, Italy
+Turin, Italy
+Palermo, Italy
+Florence, Italy
+Bologna, Italy
+Athens, Greece
+Thessaloniki, Greece
+Lisbon, Portugal
+Porto, Portugal
+Brussels, Belgium
+Antwerp, Belgium
+Amsterdam, Netherlands
+Rotterdam, Netherlands
+The Hague, Netherlands
+Utrecht, Netherlands
+Vienna, Austria
+Prague, Czech Republic
+Budapest, Hungary
+Warsaw, Poland
+Krakow, Poland
+Wroclaw, Poland
+Gdansk, Poland
+Bucharest, Romania
+Cluj-Napoca, Romania
+Sofia, Bulgaria
+Belgrade, Serbia
+Zagreb, Croatia
+Sarajevo, Bosnia and Herzegovina
+Skopje, North Macedonia
+Tirana, Albania
+Istanbul (subregions), Turkey
+Ankara, Turkey
+Izmir, Turkey
+Bursa, Turkey
+Adana, Turkey
+Tehran (subregions), Iran
+Mashhad, Iran
+Isfahan, Iran
+Shiraz, Iran
+Baghdad (subregions), Iraq
+Basra, Iraq
+Riyadh (outer), Saudi Arabia
+Jeddah, Saudi Arabia
+Mecca, Saudi Arabia
+Medina, Saudi Arabia
+Dubai, UAE
+Abu Dhabi, UAE
+Doha, Qatar
+Kuwait City, Kuwait
+Muscat, Oman
+Amman, Jordan
+Beirut, Lebanon
+Damascus, Syria
+Jerusalem, Israel
+Tel Aviv, Israel
+Cairo (subregions), Egypt
+Alexandria, Egypt
+Casablanca, Morocco
+Rabat, Morocco
+Fes, Morocco
+Algiers, Algeria
+Oran, Algeria
+Tunis, Tunisia
+Tripoli, Libya
+Johannesburg, South Africa
+Cape Town, South Africa
+Durban, South Africa
+Pretoria, South Africa
+Nairobi, Kenya
+Mombasa, Kenya
+Addis Ababa, Ethiopia
+Khartoum, Sudan
+Lagos (subregions), Nigeria
+Abuja, Nigeria
+Kano, Nigeria
+Accra, Ghana
+Kumasi, Ghana
+Abidjan, Ivory Coast
+Dakar, Senegal
+Bamako, Mali
+Kinshasa (subregions), DR Congo
+Luanda, Angola
+Harare, Zimbabwe
+Lusaka, Zambia
+Maputo, Mozambique
+Dar es Salaam, Tanzania
+Kampala, Uganda
+Bangkok (outer), Thailand
+Chiang Mai, Thailand
+Hanoi (outer), Vietnam
+Ho Chi Minh City (outer), Vietnam
+Phnom Penh, Cambodia
+Yangon, Myanmar
+Kuala Lumpur, Malaysia
+George Town, Malaysia
+Jakarta (subregions), Indonesia
+Surabaya, Indonesia
+Bandung, Indonesia
+Medan, Indonesia
+Singapore, Singapore
+Manila (subregions), Philippines
+Cebu City, Philippines
+Davao City, Philippines
+Hong Kong, China
+Shenzhen (outer), China
+Guangzhou (outer), China
+Chengdu (outer), China
+Chongqing (subregions), China
+Wuhan (outer), China
+Xi'an, China
+Hangzhou, China
+Nanjing, China
+Seoul (outer), South Korea
+Busan, South Korea
+Incheon, South Korea
+Tokyo (subregions), Japan
+Osaka (outer), Japan
+Nagoya, Japan
+Yokohama, Japan
+Sapporo, Japan
+Fukuoka, Japan
+Delhi (subregions), India
+Mumbai (subregions), India
+Bangalore, India
+Hyderabad, India
+Ahmedabad, India
+Chennai, India
+Pune, India
+Surat, India
+Jaipur, India
+Lucknow, India
+Kanpur, India
+Nagpur, India
+Indore, India
+Bhopal, India
+Patna, India
+Kolkata (outer), India
+Karachi, Pakistan
+Lahore, Pakistan
+Islamabad-Rawalpindi, Pakistan
+Dhaka (subregions), Bangladesh
+Colombo, Sri Lanka
+Kathmandu, Nepal

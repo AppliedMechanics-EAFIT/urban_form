@@ -1,0 +1,1 @@
+Filtración con deciles exactos
