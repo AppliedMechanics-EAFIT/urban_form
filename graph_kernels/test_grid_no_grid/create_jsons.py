@@ -1,11 +1,13 @@
 import json
 import random
+from pathlib import Path
 import networkx as nx
 
 NUM_GRAPHS = 500
 MIN_SIZE = 3
 MAX_SIZE = 8
 EDGE_REMOVAL_PROB = 0.0
+OUTPUT_PATH = Path(__file__).resolve().parent / "synthetic_grid_graphs.json"
 
 
 def generate_connected_grid(rows, cols):
@@ -85,7 +87,7 @@ def main():
 
         graphs_json["graphs"].append(graph_to_json(G, name))
 
-    with open("synthetic_grid_graphs.json", "w") as f:
+    with OUTPUT_PATH.open("w") as f:
         json.dump(graphs_json, f, indent=2)
 
 

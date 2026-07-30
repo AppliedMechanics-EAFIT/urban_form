@@ -1,0 +1,1415 @@
+[
+  {
+    "id": "boston_cul_de_sac_1",
+    "city": "boston",
+    "coordinates": [
+      42.33978754488314,
+      -71.06703730407725
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "boston_cul_de_sac_2",
+    "city": "boston",
+    "coordinates": [
+      42.39518580389161,
+      -71.10631986344325
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "boston_cul_de_sac_3",
+    "city": "boston",
+    "coordinates": [
+      42.327760215041835,
+      -71.09375494455492
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "boston_cul_de_sac_4",
+    "city": "boston",
+    "coordinates": [
+      42.2384708526685,
+      -70.99440936218618
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "boston_cul_de_sac_5",
+    "city": "boston",
+    "coordinates": [
+      42.347642206213074,
+      -71.07937446823811
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "boston_gridiron_1",
+    "city": "boston",
+    "coordinates": [
+      42.351515469203385,
+      -71.08570068028702
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "boston_gridiron_2",
+    "city": "boston",
+    "coordinates": [
+      42.37080519636215,
+      -71.10963378875537
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "boston_gridiron_3",
+    "city": "boston",
+    "coordinates": [
+      42.33476181392957,
+      -71.02793019104497
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "boston_gridiron_4",
+    "city": "boston",
+    "coordinates": [
+      42.38321585108219,
+      -71.18625778882209
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "boston_gridiron_5",
+    "city": "boston",
+    "coordinates": [
+      42.33925138160098,
+      -71.04896040230945
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "boston_organico_1",
+    "city": "boston",
+    "coordinates": [
+      42.35246560893022,
+      -71.11688817680972
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "boston_organico_2",
+    "city": "boston",
+    "coordinates": [
+      42.33794981518057,
+      -71.06230303551669
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "boston_organico_3",
+    "city": "boston",
+    "coordinates": [
+      42.32269919322648,
+      -71.08603372848111
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "boston_organico_4",
+    "city": "boston",
+    "coordinates": [
+      42.34760142520134,
+      -71.14492634658575
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "boston_organico_5",
+    "city": "boston",
+    "coordinates": [
+      42.36430081959154,
+      -71.01062527421331
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "boston_hibrido_1",
+    "city": "boston",
+    "coordinates": [
+      42.298867312658935,
+      -71.11140739834084
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "boston_hibrido_2",
+    "city": "boston",
+    "coordinates": [
+      42.33455742828924,
+      -71.10682960049574
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "boston_hibrido_3",
+    "city": "boston",
+    "coordinates": [
+      42.292705612556894,
+      -71.16577920900438
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "boston_hibrido_4",
+    "city": "boston",
+    "coordinates": [
+      42.33568431504091,
+      -71.08250852097783
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "boston_hibrido_5",
+    "city": "boston",
+    "coordinates": [
+      42.39830698217658,
+      -71.03287095460799
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "cary_town_cul_de_sac_1",
+    "city": "cary_town",
+    "coordinates": [
+      35.80907461040547,
+      -78.9148309528857
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "cary_town_cul_de_sac_2",
+    "city": "cary_town",
+    "coordinates": [
+      35.66376488481283,
+      -79.01011326546433
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "cary_town_cul_de_sac_3",
+    "city": "cary_town",
+    "coordinates": [
+      35.76293508276482,
+      -78.90828077226612
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "cary_town_cul_de_sac_4",
+    "city": "cary_town",
+    "coordinates": [
+      35.80449882925653,
+      -78.83962439987992
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "cary_town_cul_de_sac_5",
+    "city": "cary_town",
+    "coordinates": [
+      35.81261579555628,
+      -78.80940796998615
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "cary_town_organico_1",
+    "city": "cary_town",
+    "coordinates": [
+      35.73679636404252,
+      -78.92087749316278
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "cary_town_organico_2",
+    "city": "cary_town",
+    "coordinates": [
+      35.787659367296556,
+      -78.80051011049048
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "cary_town_organico_3",
+    "city": "cary_town",
+    "coordinates": [
+      35.77755663765506,
+      -78.83021623274634
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "cary_town_organico_4",
+    "city": "cary_town",
+    "coordinates": [
+      35.76813824449671,
+      -78.81821739567481
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "cary_town_organico_5",
+    "city": "cary_town",
+    "coordinates": [
+      35.7814949567514,
+      -78.73825737695152
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "cary_town_hibrido_1",
+    "city": "cary_town",
+    "coordinates": [
+      35.8118929179429,
+      -78.7553489321282
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "cary_town_hibrido_2",
+    "city": "cary_town",
+    "coordinates": [
+      35.746613811935774,
+      -78.7453477076585
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "cary_town_hibrido_3",
+    "city": "cary_town",
+    "coordinates": [
+      35.76312761082961,
+      -78.80595434470273
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "cary_town_hibrido_4",
+    "city": "cary_town",
+    "coordinates": [
+      35.7342995230507,
+      -78.81645554130588
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "cary_town_hibrido_5",
+    "city": "cary_town",
+    "coordinates": [
+      35.62861911621149,
+      -78.80791468435953
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "chandler_cul_de_sac_1",
+    "city": "chandler",
+    "coordinates": [
+      33.240430922197476,
+      -111.83263229284364
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "chandler_cul_de_sac_2",
+    "city": "chandler",
+    "coordinates": [
+      33.313459733597824,
+      -111.82847031376643
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "chandler_cul_de_sac_3",
+    "city": "chandler",
+    "coordinates": [
+      33.267444509745204,
+      -111.81883890421622
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "chandler_cul_de_sac_4",
+    "city": "chandler",
+    "coordinates": [
+      33.29884177456745,
+      -111.85022231637139
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "chandler_cul_de_sac_5",
+    "city": "chandler",
+    "coordinates": [
+      33.32795419387163,
+      -111.83289648428565
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "chandler_gridiron_1",
+    "city": "chandler",
+    "coordinates": [
+      33.31335497175379,
+      -111.85030943343459
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "chandler_gridiron_2",
+    "city": "chandler",
+    "coordinates": [
+      33.36645295871369,
+      -111.96315602159105
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "chandler_organico_1",
+    "city": "chandler",
+    "coordinates": [
+      33.314942475905454,
+      -111.78694509719186
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "chandler_organico_2",
+    "city": "chandler",
+    "coordinates": [
+      33.211157588779535,
+      -111.84977332877389
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "chandler_organico_3",
+    "city": "chandler",
+    "coordinates": [
+      33.324427486301616,
+      -111.81554143578542
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "chandler_organico_4",
+    "city": "chandler",
+    "coordinates": [
+      33.29505620139811,
+      -111.78161391740316
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "chandler_organico_5",
+    "city": "chandler",
+    "coordinates": [
+      33.34192461071647,
+      -111.90232956729507
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "chandler_hibrido_1",
+    "city": "chandler",
+    "coordinates": [
+      33.2981368177457,
+      -111.91937070916904
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "chandler_hibrido_2",
+    "city": "chandler",
+    "coordinates": [
+      33.360565069502606,
+      -111.86782472929838
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "chandler_hibrido_3",
+    "city": "chandler",
+    "coordinates": [
+      33.3606122631271,
+      -111.85044922678614
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "chandler_hibrido_4",
+    "city": "chandler",
+    "coordinates": [
+      33.32136336303359,
+      -111.74746602068582
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "chandler_hibrido_5",
+    "city": "chandler",
+    "coordinates": [
+      33.269272191324816,
+      -111.85000625783815
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "charleston_cul_de_sac_1",
+    "city": "charleston",
+    "coordinates": [
+      32.809779422222135,
+      -80.09257486329007
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "charleston_cul_de_sac_2",
+    "city": "charleston",
+    "coordinates": [
+      32.73702980295135,
+      -80.1315596309691
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "charleston_cul_de_sac_3",
+    "city": "charleston",
+    "coordinates": [
+      32.80016088948412,
+      -79.94437671919604
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "charleston_cul_de_sac_4",
+    "city": "charleston",
+    "coordinates": [
+      32.76348358789112,
+      -80.06260153263815
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "charleston_cul_de_sac_5",
+    "city": "charleston",
+    "coordinates": [
+      32.79592476242604,
+      -80.07602584874381
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "charleston_gridiron_1",
+    "city": "charleston",
+    "coordinates": [
+      32.86658322495885,
+      -79.98452533941709
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "charleston_gridiron_2",
+    "city": "charleston",
+    "coordinates": [
+      32.78472599145903,
+      -79.95097072719167
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "charleston_gridiron_3",
+    "city": "charleston",
+    "coordinates": [
+      32.79013387531149,
+      -79.95638994097578
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "charleston_gridiron_4",
+    "city": "charleston",
+    "coordinates": [
+      32.764893159710354,
+      -79.86396254687008
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "charleston_gridiron_5",
+    "city": "charleston",
+    "coordinates": [
+      32.770793424289366,
+      -79.92586873395709
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "charleston_organico_1",
+    "city": "charleston",
+    "coordinates": [
+      32.75295096463776,
+      -79.92365472689646
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "charleston_organico_2",
+    "city": "charleston",
+    "coordinates": [
+      32.75717100628064,
+      -79.96280117098974
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "charleston_organico_3",
+    "city": "charleston",
+    "coordinates": [
+      32.797699113456034,
+      -80.02879255299779
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "charleston_organico_4",
+    "city": "charleston",
+    "coordinates": [
+      32.7763790925268,
+      -80.00441593604222
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "charleston_organico_5",
+    "city": "charleston",
+    "coordinates": [
+      32.733690351639524,
+      -79.96192149564158
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "charleston_hibrido_1",
+    "city": "charleston",
+    "coordinates": [
+      32.656892116473735,
+      -80.18479127072722
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "charleston_hibrido_2",
+    "city": "charleston",
+    "coordinates": [
+      32.737110192945465,
+      -79.93942787168857
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "charleston_hibrido_3",
+    "city": "charleston",
+    "coordinates": [
+      32.699857346654746,
+      -79.92047852896681
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "charleston_hibrido_4",
+    "city": "charleston",
+    "coordinates": [
+      32.82001830543755,
+      -79.93787045509555
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "charleston_hibrido_5",
+    "city": "charleston",
+    "coordinates": [
+      32.85823954590929,
+      -79.99878620688361
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "fort_collins_cul_de_sac_1",
+    "city": "fort_collins",
+    "coordinates": [
+      40.63328783093817,
+      -105.04158297970946
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "fort_collins_cul_de_sac_2",
+    "city": "fort_collins",
+    "coordinates": [
+      40.592789236656365,
+      -105.1052453555827
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "fort_collins_cul_de_sac_3",
+    "city": "fort_collins",
+    "coordinates": [
+      40.57848122282965,
+      -105.12437996173995
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "fort_collins_cul_de_sac_4",
+    "city": "fort_collins",
+    "coordinates": [
+      40.516125918221,
+      -105.02972047476999
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "fort_collins_cul_de_sac_5",
+    "city": "fort_collins",
+    "coordinates": [
+      40.53088310149432,
+      -105.0884028803906
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "fort_collins_gridiron_1",
+    "city": "fort_collins",
+    "coordinates": [
+      40.57373171856492,
+      -105.0624869388209
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "fort_collins_gridiron_2",
+    "city": "fort_collins",
+    "coordinates": [
+      40.58560010071934,
+      -105.1147407570491
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "fort_collins_gridiron_3",
+    "city": "fort_collins",
+    "coordinates": [
+      40.585701113196315,
+      -105.0765359360727
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "fort_collins_gridiron_4",
+    "city": "fort_collins",
+    "coordinates": [
+      40.530545286242784,
+      -105.03182079525055
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "fort_collins_gridiron_5",
+    "city": "fort_collins",
+    "coordinates": [
+      40.5739458798418,
+      -105.0715441940159
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "fort_collins_organico_1",
+    "city": "fort_collins",
+    "coordinates": [
+      40.56008150302117,
+      -105.105608240793
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "fort_collins_organico_2",
+    "city": "fort_collins",
+    "coordinates": [
+      40.5421736649013,
+      -105.13082405054517
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "fort_collins_organico_3",
+    "city": "fort_collins",
+    "coordinates": [
+      40.65435122972151,
+      -105.11926394924826
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "fort_collins_organico_4",
+    "city": "fort_collins",
+    "coordinates": [
+      40.54021343209414,
+      -105.0125711407749
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "fort_collins_organico_5",
+    "city": "fort_collins",
+    "coordinates": [
+      40.582869946260594,
+      -105.18965214945442
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "fort_collins_hibrido_1",
+    "city": "fort_collins",
+    "coordinates": [
+      40.60384652070157,
+      -105.12025501702242
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "fort_collins_hibrido_2",
+    "city": "fort_collins",
+    "coordinates": [
+      40.57820595536327,
+      -105.10552706749223
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "fort_collins_hibrido_3",
+    "city": "fort_collins",
+    "coordinates": [
+      40.55999778184266,
+      -105.08780876880968
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "fort_collins_hibrido_4",
+    "city": "fort_collins",
+    "coordinates": [
+      40.48709752502762,
+      -105.06220816291946
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "fort_collins_hibrido_5",
+    "city": "fort_collins",
+    "coordinates": [
+      40.60553895731888,
+      -105.0354582674742
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "peachtree_cul_de_sac_1",
+    "city": "peachtree",
+    "coordinates": [
+      33.46128583825529,
+      -84.63620185594142
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "peachtree_cul_de_sac_2",
+    "city": "peachtree",
+    "coordinates": [
+      33.42242323174865,
+      -84.58434768701827
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "peachtree_cul_de_sac_3",
+    "city": "peachtree",
+    "coordinates": [
+      33.28063073903809,
+      -84.54438133402161
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "peachtree_cul_de_sac_4",
+    "city": "peachtree",
+    "coordinates": [
+      33.44054410015403,
+      -84.56691212811688
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "peachtree_cul_de_sac_5",
+    "city": "peachtree",
+    "coordinates": [
+      33.40902940502719,
+      -84.59371009141275
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "peachtree_organico_1",
+    "city": "peachtree",
+    "coordinates": [
+      33.43362347267313,
+      -84.61031864367075
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "peachtree_organico_2",
+    "city": "peachtree",
+    "coordinates": [
+      33.36805013303576,
+      -84.54778575590231
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "peachtree_hibrido_1",
+    "city": "peachtree",
+    "coordinates": [
+      33.4810327393185,
+      -84.54069484303108
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "philadelphia_cul_de_sac_1",
+    "city": "philadelphia",
+    "coordinates": [
+      39.8983474081567,
+      -75.00281684306934
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "philadelphia_cul_de_sac_2",
+    "city": "philadelphia",
+    "coordinates": [
+      39.91616281798481,
+      -75.13911513953924
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "philadelphia_cul_de_sac_3",
+    "city": "philadelphia",
+    "coordinates": [
+      39.893534595073994,
+      -75.10925804559724
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "philadelphia_cul_de_sac_4",
+    "city": "philadelphia",
+    "coordinates": [
+      39.9438496715027,
+      -75.03132427630602
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "philadelphia_cul_de_sac_5",
+    "city": "philadelphia",
+    "coordinates": [
+      39.90435530572744,
+      -74.94381596082185
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "philadelphia_gridiron_1",
+    "city": "philadelphia",
+    "coordinates": [
+      39.951663334217685,
+      -75.11388723409878
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "philadelphia_gridiron_2",
+    "city": "philadelphia",
+    "coordinates": [
+      39.924247545932815,
+      -75.22428161452244
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "philadelphia_gridiron_3",
+    "city": "philadelphia",
+    "coordinates": [
+      39.97831819278263,
+      -75.12129917218216
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "philadelphia_gridiron_4",
+    "city": "philadelphia",
+    "coordinates": [
+      40.14033854932128,
+      -75.10594503851117
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "philadelphia_gridiron_5",
+    "city": "philadelphia",
+    "coordinates": [
+      39.93330113394798,
+      -75.18541868329213
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "philadelphia_organico_1",
+    "city": "philadelphia",
+    "coordinates": [
+      40.10681175961341,
+      -75.12362045351442
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "philadelphia_organico_2",
+    "city": "philadelphia",
+    "coordinates": [
+      40.083295452365654,
+      -75.21433642762378
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "philadelphia_organico_3",
+    "city": "philadelphia",
+    "coordinates": [
+      40.094217676872375,
+      -75.09843704169333
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "philadelphia_organico_4",
+    "city": "philadelphia",
+    "coordinates": [
+      40.09080032416683,
+      -75.02786125052572
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "philadelphia_organico_5",
+    "city": "philadelphia",
+    "coordinates": [
+      40.067302245719716,
+      -74.98919659997091
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "philadelphia_hibrido_1",
+    "city": "philadelphia",
+    "coordinates": [
+      39.90948380442723,
+      -75.0201466623698
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "philadelphia_hibrido_2",
+    "city": "philadelphia",
+    "coordinates": [
+      39.96422451677749,
+      -75.13370373243681
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "philadelphia_hibrido_3",
+    "city": "philadelphia",
+    "coordinates": [
+      39.97505627382548,
+      -75.17118459741702
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "philadelphia_hibrido_4",
+    "city": "philadelphia",
+    "coordinates": [
+      39.897833530266595,
+      -75.26420944247336
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "philadelphia_hibrido_5",
+    "city": "philadelphia",
+    "coordinates": [
+      40.097212187343544,
+      -75.15556757172702
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "salt_lake_cul_de_sac_1",
+    "city": "salt_lake",
+    "coordinates": [
+      40.73271848805906,
+      -111.9216317413532
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "salt_lake_cul_de_sac_2",
+    "city": "salt_lake",
+    "coordinates": [
+      40.71317179179861,
+      -111.90711794616246
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "salt_lake_cul_de_sac_3",
+    "city": "salt_lake",
+    "coordinates": [
+      40.693478642758464,
+      -111.86269008923495
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "salt_lake_cul_de_sac_4",
+    "city": "salt_lake",
+    "coordinates": [
+      40.70025891620328,
+      -112.04362940251238
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "salt_lake_cul_de_sac_5",
+    "city": "salt_lake",
+    "coordinates": [
+      40.72953328895763,
+      -111.83364034965906
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "salt_lake_gridiron_1",
+    "city": "salt_lake",
+    "coordinates": [
+      40.75759495240841,
+      -111.89745716878967
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "salt_lake_gridiron_2",
+    "city": "salt_lake",
+    "coordinates": [
+      40.755200171708026,
+      -111.86675829002196
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "salt_lake_gridiron_3",
+    "city": "salt_lake",
+    "coordinates": [
+      40.7033792161576,
+      -111.86259735009587
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "salt_lake_gridiron_4",
+    "city": "salt_lake",
+    "coordinates": [
+      40.72947296476715,
+      -111.87963686837625
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "salt_lake_gridiron_5",
+    "city": "salt_lake",
+    "coordinates": [
+      40.762803208461136,
+      -111.90389245771854
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "salt_lake_organico_1",
+    "city": "salt_lake",
+    "coordinates": [
+      40.71522126816609,
+      -111.96529653121073
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "salt_lake_organico_2",
+    "city": "salt_lake",
+    "coordinates": [
+      40.77516538289924,
+      -111.9444261410219
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "salt_lake_organico_3",
+    "city": "salt_lake",
+    "coordinates": [
+      40.74508925877813,
+      -111.92255737140401
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "salt_lake_organico_4",
+    "city": "salt_lake",
+    "coordinates": [
+      40.693604594353026,
+      -111.84653164815826
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "salt_lake_organico_5",
+    "city": "salt_lake",
+    "coordinates": [
+      40.71483752303378,
+      -112.0441048954935
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "salt_lake_hibrido_1",
+    "city": "salt_lake",
+    "coordinates": [
+      40.74571257494918,
+      -111.86247433227024
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "salt_lake_hibrido_2",
+    "city": "salt_lake",
+    "coordinates": [
+      40.70024194623395,
+      -111.99141333615336
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "salt_lake_hibrido_3",
+    "city": "salt_lake",
+    "coordinates": [
+      40.73799360692863,
+      -111.81269354850082
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "salt_lake_hibrido_4",
+    "city": "salt_lake",
+    "coordinates": [
+      40.767319845867206,
+      -111.82756420448536
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "salt_lake_hibrido_5",
+    "city": "salt_lake",
+    "coordinates": [
+      40.71851071092218,
+      -111.82265520074509
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "santafe_cul_de_sac_1",
+    "city": "santafe",
+    "coordinates": [
+      35.645170445412326,
+      -105.96524488870847
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "santafe_cul_de_sac_2",
+    "city": "santafe",
+    "coordinates": [
+      35.619892000841794,
+      -106.01783633726194
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "santafe_cul_de_sac_3",
+    "city": "santafe",
+    "coordinates": [
+      35.58734181614624,
+      -105.99290814603822
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "santafe_cul_de_sac_4",
+    "city": "santafe",
+    "coordinates": [
+      35.67657589853469,
+      -105.92525064786899
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "santafe_cul_de_sac_5",
+    "city": "santafe",
+    "coordinates": [
+      35.64438862065754,
+      -105.99991725414384
+    ],
+    "original_pattern": "cul_de_sac"
+  },
+  {
+    "id": "santafe_gridiron_1",
+    "city": "santafe",
+    "coordinates": [
+      35.68632127742811,
+      -105.93990450491624
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "santafe_gridiron_2",
+    "city": "santafe",
+    "coordinates": [
+      35.66548166254509,
+      -105.96366288707999
+    ],
+    "original_pattern": "gridiron"
+  },
+  {
+    "id": "santafe_organico_1",
+    "city": "santafe",
+    "coordinates": [
+      35.664763892786965,
+      -105.94681466388072
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "santafe_organico_2",
+    "city": "santafe",
+    "coordinates": [
+      35.680344727740064,
+      -105.97059131482719
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "santafe_organico_3",
+    "city": "santafe",
+    "coordinates": [
+      35.63342979146165,
+      -106.0305615242414
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "santafe_organico_4",
+    "city": "santafe",
+    "coordinates": [
+      35.70394082781025,
+      -105.86759292754579
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "santafe_organico_5",
+    "city": "santafe",
+    "coordinates": [
+      35.6335718745122,
+      -105.97158162712279
+    ],
+    "original_pattern": "organico"
+  },
+  {
+    "id": "santafe_hibrido_1",
+    "city": "santafe",
+    "coordinates": [
+      35.669326714294726,
+      -105.97553747914377
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "santafe_hibrido_2",
+    "city": "santafe",
+    "coordinates": [
+      35.69354780356951,
+      -105.97257390851608
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "santafe_hibrido_3",
+    "city": "santafe",
+    "coordinates": [
+      35.64644181839671,
+      -105.98261133885934
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "santafe_hibrido_4",
+    "city": "santafe",
+    "coordinates": [
+      35.8035889671986,
+      -105.97304801159378
+    ],
+    "original_pattern": "hibrido"
+  },
+  {
+    "id": "santafe_hibrido_5",
+    "city": "santafe",
+    "coordinates": [
+      35.6560819459734,
+      -105.97120779938541
+    ],
+    "original_pattern": "hibrido"
+  }
+]

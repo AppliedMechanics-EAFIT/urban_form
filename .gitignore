@@ -4,3 +4,10 @@
 **/.cache/
 **/pycache/
 **/__pycache__/
+**/__pycache__/
+**/.kiro
+# macOS Finder metadata
+.DS_Store
+
+# Generated levelset data
+/levelset_urban_ph/processed_data/

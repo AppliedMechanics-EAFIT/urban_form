@@ -74,13 +74,14 @@ def _dataset_files(dataset_dir: Path, name: str) -> TUDatasetFiles:
 
 def _resolve_dataset_dir(dataset_dir: Path) -> Path:
     """Resolve a dataset directory relative to the project root if needed."""
+    if dataset_dir.is_absolute():
+        return dataset_dir
+    project_root = Path(__file__).resolve().parent.parent
+    candidate = project_root / dataset_dir
+    if candidate.exists():
+        return candidate
     if dataset_dir.exists():
         return dataset_dir
-    if not dataset_dir.is_absolute():
-        project_root = Path(__file__).resolve().parent.parent
-        candidate = project_root / dataset_dir
-        if candidate.exists():
-            return candidate
     return dataset_dir
 
 

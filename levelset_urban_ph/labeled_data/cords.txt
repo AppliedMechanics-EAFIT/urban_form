@@ -1,0 +1,7 @@
+CENTER_POINT = (-35.3198, 149.1495)   # (lat, lon) — Griffith / Kingston, Canberra
+CENTER_POINT = (40.7549, -73.9840)   # Midtown Manhattan, New York (grid layout)
+
+CENTER_POINT = (33.6000, -117.6710)  # Mission Viejo, California (cul-de-sac / dendritic)
+
+CENTER_POINT = (38.7120, -9.1300)    # Alfama, Lisbon (organic medieval fabric)
+CENTER_POINT = (33.4484, -112.0740)   # Phoenix, Arizona (near-perfect grid)
