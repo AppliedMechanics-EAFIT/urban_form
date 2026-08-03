@@ -67,3 +67,13 @@ Each top-level project folder is organized around some combination of:
 
 The folder-level README files provide more specific notes about methods,
 notebooks, and outputs inside each project.
+
+
+# License
+
+All code is licensed under the MIT License, and the content is licensed under
+the Creative Commons Attribution License.
+
+The content in this repository is licensed under the
+[Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/),
+and the accompanying source code is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php).
