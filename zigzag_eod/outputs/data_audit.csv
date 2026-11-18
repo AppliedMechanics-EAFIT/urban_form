@@ -1,0 +1,8 @@
+quantity,value
+rows in workbook,87619
+dropped: missing hora_o/hora_d,6
+trips used,87613
+"intrazonal (sit_o == sit_d), excluded from edges",15683
+interzonal trips -> edge activity intervals,71930
+distinct SIT zones appearing,544
+"distinct undirected OD pairs, whole day",17931

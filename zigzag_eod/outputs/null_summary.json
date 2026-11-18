@@ -1,0 +1,136 @@
+{
+ "seed": 20170101,
+ "n_rep": 20,
+ "h1_alive_vs_static_beta1_r": 0.978,
+ "observed": {
+  "label": "observed",
+  "secs": 33.1,
+  "n_simplices": 23461,
+  "h0_bars": 160,
+  "h0_open": 32,
+  "h0_longest": 23.75,
+  "h0_median": 0.5,
+  "h0_over_3h": 1,
+  "h1_bars": 10569,
+  "h1_open": 0,
+  "h1_longest": 5.75,
+  "h1_median": 1.25,
+  "h1_over_3h": 209
+ },
+ "order": {
+  "h0_bars": {
+   "mean": 234.55,
+   "sd": 7.32,
+   "min": 215.0,
+   "max": 243.0,
+   "p_ge_obs": 1.0
+  },
+  "h0_open": {
+   "mean": 4.7,
+   "sd": 7.8,
+   "min": 0.0,
+   "max": 32.0,
+   "p_ge_obs": 0.05
+  },
+  "h0_longest": {
+   "mean": 17.71,
+   "sd": 3.64,
+   "min": 12.25,
+   "max": 23.5,
+   "p_ge_obs": 0.0
+  },
+  "h1_bars": {
+   "mean": 26573.35,
+   "sd": 992.38,
+   "min": 24121.0,
+   "max": 27828.0,
+   "p_ge_obs": 1.0
+  },
+  "h1_longest": {
+   "mean": 2.55,
+   "sd": 0.41,
+   "min": 2.25,
+   "max": 3.25,
+   "p_ge_obs": 0.0
+  },
+  "h1_median": {
+   "mean": 0.75,
+   "sd": 0.0,
+   "min": 0.75,
+   "max": 0.75,
+   "p_ge_obs": 0.0
+  },
+  "h1_over_3h": {
+   "mean": 0.3,
+   "sd": 0.73,
+   "min": 0.0,
+   "max": 3.0,
+   "p_ge_obs": 0.0
+  },
+  "n_simplices": {
+   "mean": 23461.0,
+   "sd": 0.0,
+   "min": 23461.0,
+   "max": 23461.0,
+   "p_ge_obs": 1.0
+  }
+ },
+ "rewire": {
+  "h0_bars": {
+   "mean": 215.75,
+   "sd": 9.85,
+   "min": 196.0,
+   "max": 241.0,
+   "p_ge_obs": 1.0
+  },
+  "h0_open": {
+   "mean": 32.25,
+   "sd": 0.55,
+   "min": 32.0,
+   "max": 34.0,
+   "p_ge_obs": 1.0
+  },
+  "h0_longest": {
+   "mean": 23.75,
+   "sd": 0.0,
+   "min": 23.75,
+   "max": 23.75,
+   "p_ge_obs": 1.0
+  },
+  "h1_bars": {
+   "mean": 37809.15,
+   "sd": 141.05,
+   "min": 37474.0,
+   "max": 38022.0,
+   "p_ge_obs": 1.0
+  },
+  "h1_longest": {
+   "mean": 1.68,
+   "sd": 0.24,
+   "min": 1.25,
+   "max": 2.25,
+   "p_ge_obs": 0.0
+  },
+  "h1_median": {
+   "mean": 0.75,
+   "sd": 0.0,
+   "min": 0.75,
+   "max": 0.75,
+   "p_ge_obs": 0.0
+  },
+  "h1_over_3h": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "min": 0.0,
+   "max": 0.0,
+   "p_ge_obs": 0.0
+  },
+  "n_simplices": {
+   "mean": 64980.5,
+   "sd": 220.99,
+   "min": 64602.0,
+   "max": 65402.0,
+   "p_ge_obs": 1.0
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "top_k_cycles": [
+  {
+   "bar_rank": 0,
+   "persistence_h": 5.75,
+   "cycle_zones": [
+    252,
+    3,
+    314,
+    383
+   ]
+  },
+  {
+   "bar_rank": 1,
+   "persistence_h": 5.75,
+   "cycle_zones": [
+    49,
+    1,
+    170,
+    44,
+    168,
+    404
+   ]
+  },
+  {
+   "bar_rank": 2,
+   "persistence_h": 5.5,
+   "cycle_zones": [
+    7,
+    5,
+    168,
+    62,
+    209,
+    187
+   ]
+  },
+  {
+   "bar_rank": 3,
+   "persistence_h": 5.25,
+   "cycle_zones": [
+    53,
+    1,
+    49,
+    72,
+    150,
+    163
+   ]
+  },
+  {
+   "bar_rank": 4,
+   "persistence_h": 5.25,
+   "cycle_zones": [
+    8,
+    1,
+    53,
+    150,
+    19
+   ]
+  }
+ ],
+ "cycle_transit_distance_stats": {
+  "n_cycles_examined": 40,
+  "observed_median_mean_zone_dist_metro_m": 1239.7370442219221,
+  "observed_median_mean_zone_dist_all_transit_m": 622.8033746423185,
+  "null_by_k_median_dist_metro_m": {
+   "4": 2087.974348105635,
+   "5": 2275.760161645663,
+   "6": 2619.5664575239052
+  },
+  "null_by_k_median_dist_all_m": {
+   "4": 1814.5787648473786,
+   "5": 2017.8114040361188,
+   "6": 2306.799821790765
+  },
+  "frac_cycles_closer_to_metro_than_null_median": 0.9,
+  "frac_cycles_closer_to_any_transit_than_null_median": 0.9,
+  "mean_percentile_rank_metro": 0.18217500000000003,
+  "mean_percentile_rank_all_transit": 0.11660000000000001,
+  "note": "percentile rank = P(random same-size zone tuple has dist <= observed); lower rank = cycle sits closer to transit than a random zone tuple of the same size"
+ },
+ "transit_lines_used_2017": [
+  {
+   "nombre": "Niquía-La Estrella",
+   "linea": "Línea A",
+   "tipo": 1
+  },
+  {
+   "nombre": "San Antonio-San Javier",
+   "linea": "Línea B",
+   "tipo": 1
+  },
+  {
+   "nombre": "Santo Domingo-Arví",
+   "linea": "Línea L",
+   "tipo": 2
+  },
+  {
+   "nombre": "Acevedo-Santo Domingo",
+   "linea": "Línea K",
+   "tipo": 2
+  },
+  {
+   "nombre": "San Javier-La Aurora",
+   "linea": "Línea J",
+   "tipo": 2
+  },
+  {
+   "nombre": "Alejandro Echavarría-La Sierra",
+   "linea": "Línea H",
+   "tipo": 2
+  },
+  {
+   "nombre": "San Antonio-Alejandro Echavarría",
+   "linea": "Línea T",
+   "tipo": 4
+  }
+ ],
+ "excluded_not_yet_open_or_not_rail_2017": [
+  {
+   "nombre": "Cable Palmitas",
+   "linea": "La Aldea",
+   "tipo": 2
+  },
+  {
+   "nombre": "U. de M- Pretroncal Oriental",
+   "linea": "Línea 2",
+   "tipo": 3
+  },
+  {
+   "nombre": "U. de M-Av. del Ferrocarril-Parque Aranjuez",
+   "linea": "Línea 1",
+   "tipo": 3
+  },
+  {
+   "nombre": "Miraflores-13 Noviembre",
+   "linea": "Línea M",
+   "tipo": 2
+  },
+  {
+   "nombre": "Corredor de la 80 Caribe-La Palma ",
+   "linea": "Línea O",
+   "tipo": 1
+  },
+  {
+   "nombre": "Corredor de la 80 La Palma-Aguacatala",
+   "linea": "Línea O",
+   "tipo": 1
+  },
+  {
+   "nombre": "Picacho",
+   "linea": "Línea P",
+   "tipo": 2
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+surface,coverage_15min_pct,H0_fragmentation_beta0_at15,H1_beta1_at15,H1_service_void_index_min,H1_voids_crossing_15,H1_voids_born_after_15,max_H1_persistence_min,topological_15min_score
+Malls / retail,56.8,78,36,1451.5,319,283,85.6,4.49
+Clinics & hospitals,70.0,45,69,1183.8,200,139,85.1,5.88
+Schools & kindergartens,91.9,22,77,818.4,67,27,77.9,8.47
+All three services,47.8,108,35,1451.6,340,305,85.6,3.68

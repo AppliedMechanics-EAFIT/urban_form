@@ -1,0 +1,23 @@
+{
+ "barcode_csv": "outputs/zigzag_bars.csv",
+ "n_extra_short_lived": 15,
+ "long_lived_h_min": 4.0,
+ "n_bars_in_population": 63,
+ "n_cycles_examined": 121,
+ "frac_cycles_closer_to_metro_than_null_median": 0.8842975206611571,
+ "frac_cycles_closer_to_any_transit_than_null_median": 0.8842975206611571,
+ "mean_percentile_rank_metro": 0.20409641873278234,
+ "mean_percentile_rank_all_transit": 0.1498595041322314,
+ "permutation_test": {
+  "n_cycles": 121,
+  "n_permute": 2000,
+  "observed_mean_dist_metro_m": 1529.5881492540875,
+  "null_mean_dist_metro_m": 3389.8049863519427,
+  "fold_closer_than_null_metro": 2.2161553670541974,
+  "p_value_metro": 0.0004997501249375312,
+  "observed_mean_dist_all_transit_m": 1057.9867934559916,
+  "null_mean_dist_all_transit_m": 3058.3017119917668,
+  "fold_closer_than_null_all_transit": 2.8906804233364762,
+  "p_value_all_transit": 0.0004997501249375312
+ }
+}

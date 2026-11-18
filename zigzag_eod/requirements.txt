@@ -1,0 +1,30 @@
+# Zigzag persistent homology of the AMVA 2017 OD survey
+# Verified against Python 3.12.14. Install with:
+#     pip install -r requirements.txt
+#
+# NOTE ON DIONYSUS: dionysus 2 is the zigzag engine (same as Myers et al.). It
+# builds from source on install and needs CMake + Boost headers and a C++11
+# compiler. If the build fails, install those first:
+#     conda install -c conda-forge cmake boost-cpp
+# GUDHI is still used, but only for SimplexTree (Rips expansion and static
+# per-snapshot Betti numbers) — not for zigzag.
+
+dionysus==2.2.3          # zigzag persistence
+gudhi==3.13.0            # SimplexTree only: Rips expansion, static Betti numbers
+
+pandas==3.0.5
+numpy==2.5.2
+openpyxl==3.1.5          # reads the .xlsx trip workbook
+pyarrow==25.0.0          # pandas parquet/arrow backend
+
+geopandas==1.1.4         # zone shapefile + centroids
+shapely==2.1.2
+pyproj==3.7.2            # reprojection to EPSG:3115
+
+networkx==3.6.1          # snapshot graphs, cliques, chordless cycles
+matplotlib==3.10.9
+
+# --- notebook execution ---------------------------------------------------
+nbformat==5.11.1
+jupyterlab==4.6.3
+notebook==7.6.2
